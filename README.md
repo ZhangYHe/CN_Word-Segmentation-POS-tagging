@@ -1,5 +1,8 @@
 # CN_word-segmentation-POS-tagging
-基于python的中文文本分词和词性标注
+
+基于python的中文文本分词和词性标注   
+
+BIT《自然语言理解初步》课程大作业1
 
 ## DivMark_CN使用说明
 
